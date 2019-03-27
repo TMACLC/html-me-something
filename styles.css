@@ -1,0 +1,15 @@
+
+p {
+    color: green;
+    }
+    
+article {
+    background: lightgray;
+    
+    padding: 25px;
+    
+    text-align: center;
+}  
+h4, h5, h6, ul {
+    font-size: 24px;
+}  
